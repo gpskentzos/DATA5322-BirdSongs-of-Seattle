@@ -1,8 +1,8 @@
 # Identifying Pacific Northwest Birds from Acoustic Recordings: A Deep Learning Approach
 
-**Course:** DATA 5322 -- Deep Learning, Spring 2026
+**Course:** DATA 5322, Spring 2026
 **Author:** Paul Skentzos
-**Date:** May 2026
+**Date:** May 17, 2026
 
 ---
 
